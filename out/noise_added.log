@@ -1,0 +1,3 @@
+{"command": "noise", "work_size": [480, 640], "noise_sigma": 0.49, "added_sigma": 5.0, "noise_sigma_noisy": 5.44, "filter_sigma": 1.53, "noise_after_measured": 0.92, "noise_after_predicted": 0.92}
+{"command": "noise", "work_size": [480, 640], "noise_sigma": 0.49, "added_sigma": 10.0, "noise_sigma_noisy": 10.38, "filter_sigma": 2.93, "noise_after_measured": 0.97, "noise_after_predicted": 0.96}
+{"command": "noise", "work_size": [480, 640], "noise_sigma": 0.49, "added_sigma": 25.0, "noise_sigma_noisy": 22.73, "filter_sigma": 3.0, "noise_after_measured": 2.38, "noise_after_predicted": 2.35}

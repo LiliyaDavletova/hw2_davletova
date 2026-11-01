@@ -1,0 +1,1 @@
+{"command": "scan", "found": true, "corners": [[120.0, 135.0], [850.0, 100.0], [950.0, 1120.0], [100.0, 1180.0]], "size_out": [852, 1205], "binarize": "flat", "out": "out/scan11.jpg", "path": "corners", "bw": "out/scan11_bw.png"}

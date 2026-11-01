@@ -1,0 +1,1 @@
+{"command": "video", "source": "homeworks/hw2-docscan/submission/data/clip.mp4", "method": "hough", "frames": 305, "seconds": 7.9, "fps": 38.6, "found_pct": 61.3, "detect_ms_median": 21.4}
